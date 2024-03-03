@@ -2,3 +2,7 @@ hello jasmine,
 this is me trying to learn github.
 
 now i am making some changes and this would be my commit2 if i am not wrong scientifically
+
+This is me trying to collabrate with you.Now I am trying to create a branch and put this as a request which i guess on your
+approval might get added to the actual branch.Idk how this gonna work but I have got you bro.You can teach me how to do this.
+I am going to commit now .Lets see how it works.
